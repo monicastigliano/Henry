@@ -1,0 +1,34 @@
+html{
+    background-image: url(img/fondo-01.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: blueviolet;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+    
+    height: 600px;
+    width: 500px;
+    background-color: #965fa0;
+    border: 4px solid #2b292972;
+    padding: 50px;
+}
+.divClass{
+    
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}

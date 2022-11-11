@@ -1,0 +1,6 @@
+* `prototype` Es una propiedad que tiene cualquier objeto es JS . En ella se pueden declarar métodos que pueden ser implementados por el objeto al que se le aplica esta propiedad. obj.prototype.nombreMetodo
+        objeto prototipo   método
+Con esta propiedad prototype ahorramos memoria ya que cada vez que se crea un objeto solo se crea con sus propiedades y sus metodos se crean una sola vez cuando hacemos usos de esta propiedad. 
+
+
+* _Constructors_ (de Clases) Es una plantilla,  un molde para crear varios objetos que comparten las mismas caracteristicas. 

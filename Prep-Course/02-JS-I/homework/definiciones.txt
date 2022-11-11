@@ -1,0 +1,9 @@
+Variables: Una variable hace referencia a  un espacio reservado en memoria para guardar algún valor. Y se accede a el, con el nombre de dicha variable.
+
+Strings: es una cadena de caracteres, siempre es necesario encerrarla entre comillas.
+
+Funciones(argumentos, return) : Una funcion es un objeto mas de JS, el que puede recibir datos a procesar (argumentos -dentro de los parentesis), Tambien es aconsejable devolver el valor procesado a través del return, de esta manera no se puede acceder a nada más que a lo que se devuelve fuera de la función.
+
+Declaraciones if: if es un control de flujo, es decir si se cumple una condición hace algo sino hace otra cosa. 
+
+Valores booleanos (true, false): son dos posibles valores de una variable o condición booleana true cuando se cumple la condición y false cuando no se cumple.

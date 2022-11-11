@@ -1,0 +1,13 @@
+* `for` : es un flujo de control de repeticiones.
+-entre parentesis separamos con punto y coma tres argumentos.
+    -> declaramos e inicializamos una variable;
+    -> ponemos una condición de corte de la iteración, donde el valor de la variable llegue par terminar las repeticiones del for;
+    -> incrementamos el valor de la variable para que pueda ir moviendose en el flujo de repeticiones del for hasta alcanzar la condicion de fin
+
+-dento de llaves { aquí va el bloque de código a ejecutarse tras cada iteración del for}
+
+* `&&`:  AND este operador se utiliza para comparar 2 expresiones booleanas. Si una de ellas es falsa su resultado es false. Solo es True cuando las dos son verdaderas.
+
+* `||`: OR este operador se utiliza para comparar 2 expresiones booleanas. Si una de ellas es verdadera su resultado es true. Solo es false cuando las dos son falsas.
+
+* `!` : NOT es el operador de negación, delante de una expresión siempre invierte su resultado. ejemplo: si -> resultado es true, -> !resultado es false.

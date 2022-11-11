@@ -1,0 +1,9 @@
+* Objetos -> Es la representación de algo o alguien de la realidad. Tiene propiedades y Métodos.
+
+* Propiedades -> Es una caracteristica del Objeto. 
+
+* Métodos -> Es una acción que puede realizar el objeto.
+
+* Bucle `for…in` -> Recorre las propiedades o metodos de un objeto.
+
+* Notación de puntos vs notación de corchetes -> En la notación de puntos es mas facil la escritura ejemplo: objeto.propiedad es literal. En cambio en la notación con corchetes se agregan los corchetes y al nombre de la propiedad se le agregan comillas ejemplo: objeto['propiedad']. la ventaja de esta ultima es que se puede reemplazar con variables. ejemplo: propiedad = 'luz'; objeto[propiedad]; 

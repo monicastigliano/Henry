@@ -1,0 +1,15 @@
+Arrays: Un array o matriz es una estructura de datos en el que se puede almacenar datos de igual tipo o de diferentes tipos. Por ejemplo: 
+ var arrayPersona = ['Rocio', 'Thomson', 32, function Saludar(){return  'Hola'}, null, undefined, true];
+Se accéde a cada valor a tráves de su posición. las posiciones arrancan su conteo desde el cero.
+Entonces:
+        arrayPersona[0] va a ser igual a 'Rocio'
+        arrayPersona[3]() va a ser igual a 'Hola'
+
+Para saber la longitud del arreglo tenemos la misma propiedad de los Strings
+        arrayPersona.length va a ser igual a -> 7
+-------------------------------------------------------------------------------------       
+con arrayPersona.pop() Quitamos el último elemento del array (se obtiene el elemento y se elimina para siempre!) ESTE QUITA EL PRIMER ELEMENTO -> .shift()
+
+con arrayPersona.push('Carla') Agregamos un elemento al final del arreglo. en este caso el string 'Carla' y aumenta en 1 la longitud del arreglo. ESTE AGREGA A EL PRINCIPIO DEL ARREGLO -> .unshift('Carla')
+-------------------------------------------------------------------------------------
+
